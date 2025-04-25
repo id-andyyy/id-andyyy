@@ -70,4 +70,6 @@ Other Languages
 
 </div>
 
+<br>
+
 Read in [Russian&nbsp;&#127479;&#127482;](README-ru.md)
