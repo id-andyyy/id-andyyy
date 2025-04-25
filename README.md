@@ -8,7 +8,7 @@
   <br><br>
 </div>
 
-Python Backend Developer, currently studying at NUST MISIS, participating in hackathons with <a href="https://github.com/Mojarung" target="_blank">the Mojarung team</a>. I develop stylish and practical web applications and APIs with FastAPI, Django, and Flask. I'm working on improving my skills in microservice architecture and actively contributing to the creation of modern IT solutions.&nbsp;&#128104;&#8205;&#128187;
+Python Backend Developer, currently studying at NUST MISIS, participating in hackathons with <a href="https://github.com/Mojarung" target="_blank">the Mojarung team</a>. I develop stylish and practical web applications and APIs with FastAPI, Django and Flask. I'm working on improving my skills in microservice architecture and actively contributing to the creation of modern IT solutions.&nbsp;&#128104;&#8205;&#128187;
 
 # Technologies and Tools
 
