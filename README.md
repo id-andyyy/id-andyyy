@@ -12,7 +12,7 @@ Python Backend Developer, currently studying at NUST MISIS, participating in hac
 
 # Technologies and Tools
 
-Python Backend
+**Python Backend**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&color=009485&logoColor=white)
@@ -27,7 +27,7 @@ Python Backend
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-Frontend
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@ Frontend
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Other Languages
+**Other Languages**
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -68,7 +68,7 @@ Other Languages
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=id-andyyy&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues,Stars&column=7" alt="Trophies" width="100%">
 
-</div>
+</div>  
 
 <br>
 
