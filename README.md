@@ -69,6 +69,12 @@ Python Backend Developer, currently studying at NUST MISIS, participating in hac
 
 </div>  
 
+# My Contacts
+
+&#128172;&nbsp;**Telegram**: [@id_andyyy](https://t.me/id_andyyy)
+
+&#128231;&nbsp;**Email**: [obrezkov.andy@gmail.com](mailto:obrezkov.andy@gmail.com)
+
 <br>
 
 Read in [Russian&nbsp;&#127479;&#127482;](README-ru.md)
