@@ -1,4 +1,4 @@
-# &#127826;&nbsp;Hi there, I'm <a href="https://t.me/id_andyyy/" target="_blank">Andy</a>
+# &#127826;&nbsp;<a href="https://t.me/id_andyyy/" target="_blank">Andy</a>
 
 <div align="center">
   
@@ -68,6 +68,12 @@ Python Backend разработчик, учусь в Университете М
   <img src="https://github-profile-trophy.vercel.app/?username=id-andyyy&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues,Stars&column=7" alt="Trophies" width="100%">
 
 </div>
+
+# Мои контакты
+
+&#128172;&nbsp;**Telegram**: [@id_andyyy](https://t.me/id_andyyy)
+
+&#128231;&nbsp;**Почта**: [obrezkov.andy@gmail.com](mailto:obrezkov.andy@gmail.com)
 
 <br>
 
