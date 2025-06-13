@@ -55,6 +55,7 @@ Python Backend разработчик, учусь в Университете М
 
 | Хакатон | Репозиторий | Описание | Технологии |
 | ------- | ------ | -------- | ---------- |
+| [Внедрейд](https://vnedreid.orionsoft.ru/)<br>1&nbsp;место&nbsp;&#129351; | [Backend&nbsp;repo&nbsp;&#128202;](https://github.com/id-andyyy/VnedraidTBank_Backend)<br>[Frontend&nbsp;repo&nbsp;&#128200;](https://github.com/id-andyyy/VnedraidTBank_Frontend) | Веб-приложение для анализа финансовых новостей | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `SvelteKit` |
 | [Идея.&nbsp;Код.&nbsp;Релиз](https://codenrock.com/contests/codenrock-idea-code-release) | [Твой&nbsp;ФФ&nbsp;&#127963;](https://github.com/id-andyyy/IdeaCodeRelease_Web)<br>[Телеграм&nbsp;бот&nbsp;Физик&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) | Веб-сервис для студентов физфака МГУ | `Python` `FastAPI` `PostgreSQL` `SQLite` `aiogram` `SvelteKit` |
 | [Namix&nbsp;Code](https://naimixcode.ru/) | [AstroHR&nbsp;&#128302;](https://github.com/id-andyyy/AstroHR) | Инструмент для анализа совместимости сотрудников компании, основанный на натальной карте | `Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` |
 | [БЕЗУМhack](https://bezumci.wtf/hack/) | [bezumhack&nbsp;&#127827;](https://github.com/id-andyyy/bezumhack) | Шуточный сайт для знакомства с товарами [1 Апреля] | `Python` `FastAPI` `SQLite` `HTML` `CSS` `JavaScript` |
@@ -75,7 +76,7 @@ Python Backend разработчик, учусь в Университете М
 
 &#128172;&nbsp;**Telegram**: [@id_andyyy](https://t.me/id_andyyy)
 
-&#128231;&nbsp;**Почта**: [obrezkov.andy@gmail.com](mailto:obrezkov.andy@gmail.com)
+&#128231;&nbsp;**Почта**: [id.andyyy@mail.ru](mailto:id.andyyy@mail.ru)
 
 <br>
 

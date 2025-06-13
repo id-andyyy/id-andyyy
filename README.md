@@ -55,6 +55,7 @@ Python Backend Developer, currently studying at NUST MISIS, participating in hac
 
 | Hackathon | Repository | Description | Technologies |
 | ------- | ------ | -------- | ---------- |
+| [Внедрейд](https://vnedreid.orionsoft.ru/)<br>1st&nbsp;place&nbsp;&#129351; | [Backend&nbsp;repo&nbsp;&#128202;](https://github.com/id-andyyy/VnedraidTBank_Backend)<br>[Frontend&nbsp;repo&nbsp;&#128200;](https://github.com/id-andyyy/VnedraidTBank_Frontend) | Web application for financial news analysis | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `SvelteKit` |
 | [Идея.&nbsp;Код.&nbsp;Релиз](https://codenrock.com/contests/codenrock-idea-code-release) | [Твой&nbsp;ФФ&nbsp;&#127963;](https://github.com/id-andyyy/IdeaCodeRelease_Web)<br>[Telegram&nbsp;bot&nbsp;Физик&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) | A web application for students of the MSU Faculty of Physics | `Python` `FastAPI` `PostgreSQL` `SQLite` `aiogram` `SvelteKit` |
 | [Namix&nbsp;Code](https://naimixcode.ru/) | [AstroHR&nbsp;&#128302;](https://github.com/id-andyyy/AstroHR) | The tool for analyzing employee compatibility in a company based on a natal chart | `Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` |
 | [БЕЗУМhack](https://bezumci.wtf/hack/) | [bezumhack&nbsp;&#127827;](https://github.com/id-andyyy/bezumhack) | A funny website for product acquaintance [April Fool's Day] | `Python` `FastAPI` `SQLite` `HTML` `CSS` `JavaScript` |
@@ -75,7 +76,7 @@ Python Backend Developer, currently studying at NUST MISIS, participating in hac
 
 &#128172;&nbsp;**Telegram**: [@id_andyyy](https://t.me/id_andyyy)
 
-&#128231;&nbsp;**Email**: [obrezkov.andy@gmail.com](mailto:obrezkov.andy@gmail.com)
+&#128231;&nbsp;**Email**: [id.andyyy@mail.ru](mailto:id.andyyy@mail.ru)
 
 <br>
 
