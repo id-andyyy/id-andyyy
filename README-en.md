@@ -1,16 +1,16 @@
-# &#127826;&nbsp;<a href="https://t.me/id_andyyy/" target="_blank">Andy</a>
+# &#127826;&nbsp;Hi there, I'm <a href="https://t.me/id_andyyy/" target="_blank">Andy</a>
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=40&duration=2000&pause=1000&color=8763F7&center=true&vCenter=true&width=610&lines=Python+Backend+Разработчик;Победитель+Хакатонов;Студент+НИТУ+МИСИС;Создатель+Mojarung;Люблю+клубнику" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=40&duration=2000&pause=1000&color=8763F7&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Hackathon+Winner;Student+of+NUST+MISIS;Mojarung+Co-Founder;Strawberry+Lover" alt="Typing SVG"></a>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=id-andyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
   <br><br>
 </div>
 
-Python Backend разработчик, учусь в Университете МИСИС, участвую в хакатонах с <a href="https://github.com/Mojarung" target="_blank">командой Mojarung</a>. Разрабатываю стильные и полезные веб-приложений и API с использованием FastAPI, Django и Flask. Стремлюсь улучшать свои знания в области разработки микросервисной архитектуры и активно участвую в создании современных IT-решений.&nbsp;&#128104;&#8205;&#128187;
+Python Backend Developer, currently studying at NUST MISIS, participating in hackathons with <a href="https://github.com/Mojarung" target="_blank">the Mojarung team</a>. I develop stylish and practical web applications and APIs with FastAPI, Django and Flask. I'm working on improving my skills in microservice architecture and actively contributing to the creation of modern IT solutions.&nbsp;&#128104;&#8205;&#128187;
 
-# Технологии и инструменты
+# Technologies and Tools
 
 **Python Backend**
 
@@ -45,23 +45,23 @@ Python Backend разработчик, учусь в Университете М
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Другие языки**
+**Other Languages**
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-# Хакатоны
+# Hackathons
 
-| Хакатон | Репозиторий | Описание | Технологии |
+| Hackathon | Repository | Description | Technologies |
 | ------- | ------ | -------- | ---------- |
-| [Внедрейд](https://vnedreid.orionsoft.ru/)<br>1&nbsp;место&nbsp;&#129351; | [Backend&nbsp;repo&nbsp;&#128202;](https://github.com/id-andyyy/VnedraidTBank_Backend)<br>[Frontend&nbsp;repo&nbsp;&#128200;](https://github.com/id-andyyy/VnedraidTBank_Frontend) | Веб-приложение для анализа финансовых новостей | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `SvelteKit` |
-| [Идея.&nbsp;Код.&nbsp;Релиз](https://codenrock.com/contests/codenrock-idea-code-release) | [Твой&nbsp;ФФ&nbsp;&#127963;](https://github.com/id-andyyy/IdeaCodeRelease_Web)<br>[Телеграм&nbsp;бот&nbsp;Физик&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) | Веб-сервис для студентов физфака МГУ | `Python` `FastAPI` `PostgreSQL` `SQLite` `aiogram` `SvelteKit` |
-| [Namix&nbsp;Code](https://naimixcode.ru/) | [AstroHR&nbsp;&#128302;](https://github.com/id-andyyy/AstroHR) | Инструмент для анализа совместимости сотрудников компании, основанный на натальной карте | `Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` |
-| [БЕЗУМhack](https://bezumci.wtf/hack/) | [bezumhack&nbsp;&#127827;](https://github.com/id-andyyy/bezumhack) | Шуточный сайт для знакомства с товарами [1 Апреля] | `Python` `FastAPI` `SQLite` `HTML` `CSS` `JavaScript` |
-| [Kokoc Hackaton&nbsp;2024](https://codenrock.com/contests/kokochackathon2024#/) | [kokoc&nbsp;&#129381;](https://github.com/id-andyyy/kokoc) | Сайт футбольного клуба Kokoc Group | `Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` |
+| [Внедрейд](https://vnedreid.orionsoft.ru/)<br>1st&nbsp;place&nbsp;&#129351; | [Backend&nbsp;repo&nbsp;&#128202;](https://github.com/id-andyyy/VnedraidTBank_Backend)<br>[Frontend&nbsp;repo&nbsp;&#128200;](https://github.com/id-andyyy/VnedraidTBank_Frontend) | Web application for financial news analysis | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `SvelteKit` |
+| [Идея.&nbsp;Код.&nbsp;Релиз](https://codenrock.com/contests/codenrock-idea-code-release) | [Твой&nbsp;ФФ&nbsp;&#127963;](https://github.com/id-andyyy/IdeaCodeRelease_Web)<br>[Telegram&nbsp;bot&nbsp;Физик&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) | A web application for students of the MSU Faculty of Physics | `Python` `FastAPI` `PostgreSQL` `SQLite` `aiogram` `SvelteKit` |
+| [Namix&nbsp;Code](https://naimixcode.ru/) | [AstroHR&nbsp;&#128302;](https://github.com/id-andyyy/AstroHR) | The tool for analyzing employee compatibility in a company based on a natal chart | `Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` |
+| [БЕЗУМhack](https://bezumci.wtf/hack/) | [bezumhack&nbsp;&#127827;](https://github.com/id-andyyy/bezumhack) | A funny website for product acquaintance [April Fool's Day] | `Python` `FastAPI` `SQLite` `HTML` `CSS` `JavaScript` |
+| [Kokoc Hackaton&nbsp;2024](https://codenrock.com/contests/kokochackathon2024#/) | [kokoc&nbsp;&#129381;](https://github.com/id-andyyy/kokoc) | The website of the Kokoc Group Football Club | `Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` |
 
-# GitHub статистика
+# GitHub Statistics
 
 <div align="center">
 
@@ -70,14 +70,14 @@ Python Backend разработчик, учусь в Университете М
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=id-andyyy&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues,Stars&column=7" alt="Trophies" width="100%">
 
-</div>
+</div>  
 
-# Мои контакты
+# My Contacts
 
 &#128172;&nbsp;**Telegram**: [@id_andyyy](https://t.me/id_andyyy)
 
-&#128231;&nbsp;**Почта**: [id.andyyy@mail.ru](mailto:id.andyyy@mail.ru)
+&#128231;&nbsp;**Email**: [id.andyyy@mail.ru](mailto:id.andyyy@mail.ru)
 
 <br>
 
-Читать на [английском&nbsp;&#127468;&#127463;](README.md)
+Read in [Russian&nbsp;&#127479;&#127482;](README.md)
