@@ -78,10 +78,10 @@ Python Backend разработчик, учусь в Университете М
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=id-andyyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=id-andyyy&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=id-andyyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=id-andyyy&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="">
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=id-andyyy&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues,Stars&column=7" alt="Trophies" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=id-andyyy&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues,Stars&column=7" alt="" width="100%">
 
 </div>
 
