@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=40&duration=2000&pause=1000&color=8763F7&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Hackathon+Winner;Student+of+NUST+MISIS;Mojarung+Co-Founder;Strawberry+Lover" alt=""></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=40&duration=2000&pause=1000&color=8763F7&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;X5+Tech+Intern;Hackathon+Winner;Student+of+NUST+MISIS;Mojarung+Co-Founder;Strawberry+Lover" alt=""></a>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=id-andyyy&theme=tokyonight&hide_border=true" alt="">
   <br><br>
 </div>
 
-Python Backend разработчик, учусь в Университете МИСИС, участвую в хакатонах с <a href="https://github.com/Mojarung" target="_blank">командой Mojarung</a>. Разрабатываю стильные и полезные веб-приложений и API с использованием FastAPI, Django и Flask. Стремлюсь улучшать свои знания в области разработки микросервисной архитектуры и активно участвую в создании современных IT-решений.&nbsp;&#128104;&#8205;&#128187;
+Python Backend разработчик, стажируюсь в X5 Tech, учусь в Университете МИСИС, участвую в хакатонах с <a href="https://github.com/Mojarung" target="_blank">командой Mojarung</a>. Разрабатываю стильные и полезные веб-приложений и API с использованием FastAPI, Django и Flask. Стремлюсь улучшать свои знания в области разработки микросервисной архитектуры и активно участвую в создании современных IT-решений.&nbsp;&#128104;&#8205;&#128187;
 
 ## &#128187;&nbsp;Технологии и инструменты
 
